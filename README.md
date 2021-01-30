@@ -1,4 +1,13 @@
-### Hi there 👋
+### About Me 👋
+
+*13 years old!! __(In korean age, 15!)__*
+
+##### Favorites ♥ 
+* Coding ♥
+* Harry Potter ⚡
+* and many things!!
+
+
 
 <!--
 **luculentSoft/luculentSoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
