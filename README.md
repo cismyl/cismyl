@@ -1,6 +1,4 @@
-### About Me 👋
 
-*13 years old!! __(In korean age, 15!)__*
 
 ##### Favorites ♥ 
 * Coding ♥
